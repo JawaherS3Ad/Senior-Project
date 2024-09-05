@@ -22,7 +22,3 @@ The project followed the Waterfall Software Development Life Cycle, ensuring a s
 - Expand the app to cater to other niches within the beauty industry.
 - Further develop AI functionalities to provide personalized customer experiences.
 - Enhance data security measures to protect sensitive customer payment information.
-  
- **Team**  
- 
-Developed by: Jawaher, Maleha, Riman, Dana.
