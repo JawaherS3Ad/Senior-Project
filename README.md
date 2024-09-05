@@ -17,7 +17,7 @@ The project followed the Waterfall Software Development Life Cycle, ensuring a s
 - Programming Language: Php, Html, CSS
 - Database: MySQL
 
-**Future Work ** 
+**Future Work** 
 
 - Expand the app to cater to other niches within the beauty industry.
 - Further develop AI functionalities to provide personalized customer experiences.
